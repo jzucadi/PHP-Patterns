@@ -11,6 +11,7 @@
 	register_field('acf_Image_Crop', dirname(__FILE__).'fields/image_crop.php'); 
 	- You now have a field type called Image Crop.
 	* 
+*
 	*/    
 
 <?php
